@@ -1,0 +1,18 @@
+.big {
+    width: 250px;
+    height: 100px;
+    background-color: yellowgreen;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.small {
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+}
